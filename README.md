@@ -1,4 +1,4 @@
-# PT-BR 
+# PT-BR
 
 - Meu nome é Eric Lopes, usuário linux, entusiasta de eletrônica e programação (C e Python).
 - Atualmente, estou com vários projetos pessoais, utilizando Arduino, Esp32 e Raspberry.
